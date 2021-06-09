@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Dannylo-Gaivota github stats](https://github-readme-stats.vercel.app/api?username=dannylo-gaivota)](https://github.com/dannylo-gaivota/github-readme-stats)
+[![Dannylo-Gaivota github stats](https://github-readme-stats.vercel.app/api?username=dannylo-gaivota)](https://www.linkedin.com/in/dannylo-dangel-a07870164/)
 
 - 🔭 I’m currently working on some special 
 - 🌱 I’m currently learning node, dart, and sometimes Rust
